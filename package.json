@@ -2,7 +2,7 @@
   "name": "Todoapp",
   "version": "1.0.0",
   "description": "",
-  "main": "app.jsn",
+  "main": "app.js",
   "scripts": {
     "app": "nodemon app.js"
   },
